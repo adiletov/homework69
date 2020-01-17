@@ -1,0 +1,29 @@
+.logo{
+    width: 100px;
+}
+.header{
+    display: flex;
+    background: linear-gradient(to bottom, rgba(255,168,76,1) 0%,rgba(255,123,13,1) 100%);
+}
+.logotip{
+    width: 20%;
+}
+.nav-link{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+.link{
+    font-family: fantasy;
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 100px;
+    color: #f5e0d1;
+
+}
+.active{
+    color: #696969;
+}
+
+
